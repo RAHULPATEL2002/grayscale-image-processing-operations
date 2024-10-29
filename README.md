@@ -1,6 +1,4 @@
 
-Here's an updated version of the README.md file that includes sections for images showcasing the results of your operations. You can replace the image file names with the actual images once you have them ready:
-
 Grayscale Image Processing Operations
 This repository contains MATLAB scripts that perform various image processing tasks on grayscale images, including brightness adjustment, contrast manipulation, negative image creation, and arithmetic operations between two images.
 
